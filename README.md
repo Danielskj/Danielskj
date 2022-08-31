@@ -1,7 +1,7 @@
    Meu nome é Carlos Daniel, atualmente aluno de Engenharia da Computação pela UFMA.    
    
- Sou interessado em desenvolver e trabalhar  com stacks voltadas para oFront End, área que venho me dedicando a cada dia mais.  
-Atualmente estudando tecnologias voltadas para o front end: Java Script, HTML e CSS, React.
+ Sou interessado em desenvolver e trabalhar  com tecnologias voltadas para oFront End, área que venho me dedicando a cada dia mais.  
+ Atualmente estudando tecnologias voltadas para o front end: Java Script, HTML e CSS, React.
 📫 How to reach me: email: carlosdiel16@gmail.com
 
 
