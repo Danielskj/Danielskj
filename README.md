@@ -1,8 +1,17 @@
-   Meu nome é Carlos Daniel, atualmente aluno de Engenharia da Computação pela UFMA.    
+Ola! Meu nome é Carlos Daniel, atualmente aluno de Engenharia da Computação pela UFMA.    
+
+   Conecte-se comigo: 
+
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/carlos-daniel-7961971b5/)    [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/Danielskj/)
    
- Sou interessado em desenvolver e trabalhar  com tecnologias voltadas para o Front End, área que venho me dedicando a cada dia mais.  
- Atualmente estudando tecnologias voltadas para o front end: Java Script, HTML e CSS, React e Typescript (estudando atualmente).
-📫 How to reach me: email: carlosdiel16@gmail.com
+ 
+📫 Email: carlosdiel16@gmail.com
+
+
+
+Estatísticas Github:
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Danielskj&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)                     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 <!---
