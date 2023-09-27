@@ -11,7 +11,7 @@ Ola! Meu nome é Carlos Daniel, atualmente aluno de Engenharia da Computação p
 
 Estatísticas Github:
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Danielskj&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)                     !=
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Danielskj&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)                     
 
 <!---
 Danielskj/Danielskj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
