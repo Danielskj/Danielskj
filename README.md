@@ -10,6 +10,8 @@ Atualmente trabalhando como Analista de Dados.
 📫 Email: carlosdiel16@gmail.com
 
 Minhas principais habilidades na área de dados:
+
+
 • Python
 • SQL 
 • Power BI 
