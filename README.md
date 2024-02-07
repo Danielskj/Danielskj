@@ -13,9 +13,13 @@ Minhas principais habilidades na área de dados:
 
 
 • Python
+
 • SQL 
+
 • Power BI 
+
 • Excel 
+
 • AWS
 
 Estatísticas Github:
