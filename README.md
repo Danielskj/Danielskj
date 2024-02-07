@@ -12,15 +12,15 @@ Atualmente trabalhando como Analista de Dados.
 Minhas principais habilidades na área de dados:
 
 
-• Python
+•  Python
 
-• SQL 
+•  SQL 
 
-• Power BI 
+•  Power BI 
 
-• Excel 
+•  Excel 
 
-• AWS
+•  AWS
 
 Estatísticas Github:
 
