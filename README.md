@@ -1,5 +1,7 @@
 Ola! Meu nome é Carlos Daniel, atualmente aluno de Engenharia da Computação pela UFMA.    
 
+Atualmente trabalhando como Analista de Dados.
+
    Conecte-se comigo: 
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/carlos-daniel-7961971b5/)    [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/Danielskj/)
