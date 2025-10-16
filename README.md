@@ -14,13 +14,19 @@ Minhas principais habilidades na área de dados:
 
 •  Python
 
-•  SQL 
+•  SQL (SQL SERVER; ORACLE SQL)
 
 •  Power BI 
 
 •  Excel 
 
 •  AWS
+
+- Power apps e Power Automate
+
+- Snowflake
+
+
 
 Estatísticas Github:
 
